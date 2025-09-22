@@ -5,18 +5,8 @@
 <img width="1034" height="547" alt="image" src="https://github.com/user-attachments/assets/8a9576cc-78b4-4e7f-ab6c-f59091bd09b9" />
 
 
-This template should help get you started developing with Vue 3 in Vite.
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+能对多种空气质量数据进行获取，不同等级拥有不同的颜色显示
+<img width="1094" height="573" alt="image" src="https://github.com/user-attachments/assets/5965aa86-86e6-4494-8fcb-43647ad000f8" />
 
 ## Project Setup
 
