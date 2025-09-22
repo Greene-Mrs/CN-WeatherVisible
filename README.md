@@ -1,4 +1,6 @@
-# weather_visualization
+# weather_visualization，借助中国气象局数据来源以及网页参考：https://data.cma.cn/dataGis/static/gridgis/#/pcindex
+参考GitHub项目https://github.com/HZhertz/weather_visualization制作而成，
+<img width="1034" height="547" alt="image" src="https://github.com/user-attachments/assets/8a9576cc-78b4-4e7f-ab6c-f59091bd09b9" />
 
 This template should help get you started developing with Vue 3 in Vite.
 
